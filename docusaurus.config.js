@@ -14,7 +14,7 @@ const config = {
   tagline: 'Guía para correr las automatizaciones en SDP',
   favicon: 'img/belcorp_logo.png',
 
-  url: 'https://github.io',
+  url: 'https://nextgenit-peru.github.io',
   baseUrl: '/manual-automatizaciones/',
 
   organizationName: 'NextGenIT-Peru',
