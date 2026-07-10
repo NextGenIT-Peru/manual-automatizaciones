@@ -14,6 +14,14 @@ const config = {
   tagline: 'Guía para correr las automatizaciones en SDP',
   favicon: 'img/belcorp_logo.png',
 
+  url: 'https://github.io',
+  baseUrl: '/manual-automatizaciones/',
+
+  organizationName: 'NextGenIT-Peru',
+  projectName: 'manual-automatizaciones',
+  deploymentBranch: 'gh-pages',
+  trailingSlash: false,
+
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
     v4: true, // Improve compatibility with the upcoming Docusaurus v4
@@ -27,8 +35,6 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
 
   onBrokenLinks: 'throw',
 
